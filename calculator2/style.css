@@ -11,12 +11,12 @@ body{
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: linear-gradient(#0051ff,#6ae1fb);
+  background: linear-gradient(#00ff22,#00ff55);
 }
 .center{
   /* display: none; */
   width: 350px;
-  background: rgb(97, 97, 97);
+  background: rgb(126, 125, 125);
   border-radius: 20px;
 }
 input[type="text"]{
